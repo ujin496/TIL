@@ -18,7 +18,7 @@
 
 
 - git status : 현재 상태 확인
-- git init : git 활성화, 현재 디렉토리를 Working Directory로
+- git init : git 활성화, 현재 디렉토리를 Working Directory로 변경
 - git log : git Commit Log 보기
   - git log --oneline : 한줄로 보기, 해시값 표시
 
